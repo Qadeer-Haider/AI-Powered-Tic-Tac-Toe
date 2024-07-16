@@ -1,1 +1,1 @@
-# AI-Powered-Tic-Tac-Toe
+# Tic-Tac-Toe-Battle-Human-vs.-Computer-AI in C++
